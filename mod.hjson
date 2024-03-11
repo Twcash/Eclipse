@@ -1,0 +1,9 @@
+repo: eclipse
+name: "eclipse"
+displayName: "eclipse"
+author: "eclipse [twcash]"
+description: "Fight an eclipse, I dare you"
+subtitle: "eclipse"
+version: "eclipse"
+minGameVersion: "146"
+hidden: "false"

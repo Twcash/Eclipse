@@ -1,0 +1,25 @@
+
+type: cellLiquid
+spreadTarget: oil
+cells: 30
+maxSpread: .9
+spreadConversion: .1
+spreadDamage: .01
+colorFrom: b0bac0
+colorTo: 6e7080
+color: ffa665
+particleEffect: [
+{
+particles: 4
+length: 10
+lifetime: 120
+spin: 2
+sizeFrom: 5
+sizeTo: 0
+region: unittest-sgr
+layer: 80
+}
+]
+capPuddles: false
+effect: infected
+hidden: true

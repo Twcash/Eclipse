@@ -1,0 +1,33 @@
+abilities: [
+{
+type: SpawnDeathAbility
+unit: no
+}
+]
+createWreck: false
+deathSound: wind3
+deathExplosionEffect: [
+dynamicExplosion,
+{
+particles: 4
+length: 180
+lifetime: 250
+spin: 14
+sizeFrom: 15
+sizeTo: 0
+region: unittest-no-1
+layer: 80
+
+}
+{
+particles: 4
+length: 240
+lifetime: 300
+spin: 14
+sizeFrom: 30
+sizeTo: 0
+region: unittest-no-2
+layer: 80
+
+}
+]

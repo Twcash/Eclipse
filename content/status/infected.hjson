@@ -12,7 +12,7 @@ lifetime: 120
 spin: 2
 sizeFrom: 5
 sizeTo: 0
-region: unittest-sgr
+region: eclipse-sgr
 layer: 80
 }
 ]

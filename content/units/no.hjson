@@ -9,6 +9,7 @@ drawBody: false
 rotateSpeed: .8
 omniMovement: false
 health: 128000
+hidden: true
 armor: 30
 localizedName: eclipse?
 hitSize: 58

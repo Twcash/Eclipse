@@ -15,7 +15,7 @@ lifetime: 250
 spin: 14
 sizeFrom: 15
 sizeTo: 0
-region: unittest-no-1
+region: eclipse-no-1
 layer: 80
 
 }
@@ -26,7 +26,7 @@ lifetime: 300
 spin: 14
 sizeFrom: 30
 sizeTo: 0
-region: unittest-no-2
+region: eclipse-no-2
 layer: 80
 
 }

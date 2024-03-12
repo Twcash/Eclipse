@@ -21,7 +21,7 @@ lifetime: 300
 spin: 1
 sizeFrom: 30
 sizeTo: 0
-region: unittest-a
+region: eclipse-a
 layer: 80
 }
 {
@@ -31,7 +31,7 @@ lifetime: 300
 spin: 1
 sizeFrom: 30
 sizeTo: 0
-region: unittest-b
+region: eclipse-b
 layer: 80
 }
 {
@@ -41,7 +41,7 @@ lifetime: 300
 spin: 1
 sizeFrom: 30
 sizeTo: 0
-region: unittest-c
+region: eclipse-c
 layer: 80
 }
 {
@@ -51,7 +51,7 @@ lifetime: 300
 spin: 1
 sizeFrom: 30
 sizeTo: 0
-region: unittest-d
+region: eclipse-d
 layer: 80
 }
 dynamicExplosion,
